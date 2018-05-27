@@ -1,0 +1,10 @@
+D:\Programming\kneely.space\kneely.space\bin\Release\netcoreapp2.0\linux-x64\kneely.space.deps.json
+D:\Programming\kneely.space\kneely.space\bin\Release\netcoreapp2.0\linux-x64\kneely.space.runtimeconfig.json
+D:\Programming\kneely.space\kneely.space\bin\Release\netcoreapp2.0\linux-x64\kneely.space.runtimeconfig.dev.json
+D:\Programming\kneely.space\kneely.space\bin\Release\netcoreapp2.0\linux-x64\kneely.space.dll
+D:\Programming\kneely.space\kneely.space\bin\Release\netcoreapp2.0\linux-x64\kneely.space.pdb
+D:\Programming\kneely.space\kneely.space\obj\Release\netcoreapp2.0\linux-x64\kneely.space.csproj.CoreCompileInputs.cache
+D:\Programming\kneely.space\kneely.space\obj\Release\netcoreapp2.0\linux-x64\kneely.space.AssemblyInfoInputs.cache
+D:\Programming\kneely.space\kneely.space\obj\Release\netcoreapp2.0\linux-x64\kneely.space.AssemblyInfo.cs
+D:\Programming\kneely.space\kneely.space\obj\Release\netcoreapp2.0\linux-x64\kneely.space.dll
+D:\Programming\kneely.space\kneely.space\obj\Release\netcoreapp2.0\linux-x64\kneely.space.pdb

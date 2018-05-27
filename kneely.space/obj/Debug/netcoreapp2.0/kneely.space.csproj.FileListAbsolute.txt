@@ -20,3 +20,14 @@ C:\Users\kevin\Desktop\kneely.space\kneely.space\obj\Debug\netcoreapp2.0\kneely.
 C:\Users\kevin\Desktop\kneely.space\kneely.space\obj\Debug\netcoreapp2.0\kneely.space.AssemblyInfo.cs
 C:\Users\kevin\Desktop\kneely.space\kneely.space\obj\Debug\netcoreapp2.0\kneely.space.dll
 C:\Users\kevin\Desktop\kneely.space\kneely.space\obj\Debug\netcoreapp2.0\kneely.space.pdb
+D:\Programming\kneely.space\kneely.space\bin\Debug\netcoreapp2.0\kneely.space.deps.json
+D:\Programming\kneely.space\kneely.space\bin\Debug\netcoreapp2.0\kneely.space.runtimeconfig.json
+D:\Programming\kneely.space\kneely.space\bin\Debug\netcoreapp2.0\kneely.space.runtimeconfig.dev.json
+D:\Programming\kneely.space\kneely.space\bin\Debug\netcoreapp2.0\kneely.space.dll
+D:\Programming\kneely.space\kneely.space\bin\Debug\netcoreapp2.0\kneely.space.pdb
+D:\Programming\kneely.space\kneely.space\obj\Debug\netcoreapp2.0\kneely.space.csprojAssemblyReference.cache
+D:\Programming\kneely.space\kneely.space\obj\Debug\netcoreapp2.0\kneely.space.csproj.CoreCompileInputs.cache
+D:\Programming\kneely.space\kneely.space\obj\Debug\netcoreapp2.0\kneely.space.AssemblyInfoInputs.cache
+D:\Programming\kneely.space\kneely.space\obj\Debug\netcoreapp2.0\kneely.space.AssemblyInfo.cs
+D:\Programming\kneely.space\kneely.space\obj\Debug\netcoreapp2.0\kneely.space.dll
+D:\Programming\kneely.space\kneely.space\obj\Debug\netcoreapp2.0\kneely.space.pdb
